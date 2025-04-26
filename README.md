@@ -14,7 +14,7 @@ This notebook reproduces the findings of the following scientific article, accep
 
 ## Overview
 
-This repository contains a single Jupyter notebook, `pitting_pathways_pca_clustering.ipynb`, which:
+This repository contains a single Jupyter notebook, `code.ipynb`, which:
 
 1. Loads the experimental datasets (download them separately).  
 2. Performs PCA-based clustering on fractal descriptors.  
@@ -25,4 +25,4 @@ This repository contains a single Jupyter notebook, `pitting_pathways_pca_cluste
 1. **Clone this repository**  
    ```bash
    git clone https://github.com/bcoelho-leonardo/pitting_pathways_pca_clustering.git
-   cd identifying-pitting-pathways
+   cd pitting_pathways_pca_clustering
