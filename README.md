@@ -24,5 +24,5 @@ This repository contains a single Jupyter notebook, `pitting_pathways_pca_cluste
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/<bcoelho-leonardo>/identifying-pitting-pathways.git
+   git clone https://github.com/bcoelho-leonardo/pitting_pathways_pca_clustering.git
    cd identifying-pitting-pathways
