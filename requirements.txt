@@ -1,0 +1,6 @@
+numpy>=1.22.0            # fundamental package for scientific computing :contentReference[oaicite:0]{index=0}
+pandas>=1.3.0            # fast, flexible data structures for data analysis :contentReference[oaicite:1]{index=1}
+matplotlib>=3.4.0        # comprehensive library for creating visualizations :contentReference[oaicite:2]{index=2}
+scikit-learn>=1.0.0      # machine learning tools built on top of SciPy :contentReference[oaicite:3]{index=3}
+scipy>=1.7.0             # algorithms for statistics, optimization, integration, etc. :contentReference[oaicite:4]{index=4}
+jupyter>=1.0.0           # the Jupyter Notebook application :contentReference[oaicite:5]{index=5}
